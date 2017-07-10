@@ -104,7 +104,7 @@ An interim announcement >> [PDF Link : TNTeams_ Security Booting Manager >> #1�
 - 설계 발표 : 기술적 요구사항을 상세화
 
 ### 개발 문서 (PDF)
-- [개발 관련 문서](https://github.com/KangHoyong/Project-Life-Histry/tree/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EB%B0%8F%20%EB%AC%B8%EC%84%9C)
+- [개발 관련 문서](https://github.com/KangHoyong/My-Portfolio/tree/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EB%B0%8F%20%EB%AC%B8%EC%84%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%AC%B8%EC%84%9C)
 
 ### 참여자명단 
 
