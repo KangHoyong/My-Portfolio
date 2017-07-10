@@ -192,10 +192,12 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 
 ## 2. 2016년 대구광역시 공공데이터 활용 일반부 아이디어 공모전 (결과 1차 서류 심사 합격 2차 최종발표심사 불합격)
 
+
+
 #### 일정 
  - 2016년 8월 8일(월) ~ 9월 7일(수)
  
-#### Project Name : 반비로
+#### Project Name :
 
 #### Project Introduce
 수정작업중
