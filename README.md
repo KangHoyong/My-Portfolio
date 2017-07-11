@@ -138,7 +138,7 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
   <img width="858" alt="2015-09-13 6 17 54" src="https://cloud.githubusercontent.com/assets/9815703/9836033/f2976928-5a43-11e5-8f50-3ecceee042a3.png">
 
 
-## 3. [2016년 제10회 개발자 대회 참여 (수상 : 동상)](https://github.com/KangHoyong/SecurityBootManager)
+## 3. [2016년 제10회 공개SW 개발자 대회 참여 (수상 : 동상)](https://github.com/KangHoyong/SecurityBootManager)
 
 #### Project Name : SecurityBootManager CoreLibrary
 
