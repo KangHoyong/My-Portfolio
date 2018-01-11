@@ -26,7 +26,7 @@ Dev | Name | GitHub | e-mail  
 :---: | :---: | :---: | ---  
 Grub Network 통신 Custom Module 제작 & 분석, Epoll + MultiThreading Server 설계 | **김병욱(리더)** | [**kbu1564**](https://github.com/kbu1564) | [**quddnr145@gmail.com**](quddnr145@gmail.com) 
 Grub 분석 & iPXE 소스분석, Epoll + MultiThreading Server 설계, 디자인 패턴 적용 | 유주현 | [JuHynu Yu](https://github.com/formfoxk) | [groovehyunji@gmail.com](formfoxk@gmail.com)
-Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 구현 | 강호용 | [KangHoyong](https://github.com/KangHoyong) | [yugioh9@naver.com](yugioh9@naver.com)
+Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 구현 | 강호용 | [KangHoyong](https://github.com/KangHoyong) | [yugioh9@naver.com]
 Grub분석 & iPXE 소스분석, 중계서버 Android & Grub 공통 프로토콜 제작 및 설계 | 김하진 | [kimhajin](https://github.com/kimhajin) | - 
 
 #### 개발 운영 환경 및 관련 사항 
