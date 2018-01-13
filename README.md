@@ -49,7 +49,7 @@ Grub분석 & iPXE 소스분석, 중계서버 Android & Grub 공통 프로토콜 
 
 - [버그 픽스 공유 및 해결방안 제시](https://github.com/kbu1564/SecurityBootloader/issues/5) 
 
-- [Wiki 제작 (설치방법 및 버그 픽스 해결방안 제시](https://github.com/kbu1564/SecurityBootloader/wiki) 
+- [Wiki 제작 (설치방법 및 버그 픽스 해결방안 제시)](https://github.com/kbu1564/SecurityBootloader/wiki) 
 
 #### 설계이슈
 
