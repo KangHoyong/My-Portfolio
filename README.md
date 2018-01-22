@@ -2,10 +2,13 @@
 
 # CONTENT
 1. 주요 프로젝트 
-  - Secutity Multi-Bootloader Manager 
-  
+  - 1) NHNCopeCamp : Secutity Multi-Bootloader Manager 
+  - 2) Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]
+  - 3) Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]
+
+
 2. 개인 프로젝트 
-  -  [Spring Project](https://github.com/KangHoyong/My-Portfolio/blob/master/WebProject/README.md)
+  - 1) [Spring Project](https://github.com/KangHoyong/My-Portfolio/blob/master/WebProject/README.md)
 
 
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
@@ -187,4 +190,8 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 
 #### 최종 결과 
 <img width="991" alt="2017-07-10 1 39 06" src="https://user-images.githubusercontent.com/9815703/28003055-50707a06-6575-11e7-936d-c80f7ea6ebe4.png">
+
+
+## 4. 개인 프로젝트 (Spring, Back-end 개발 프로젝트)
+  -  [Spring Project](https://github.com/KangHoyong/My-Portfolio/blob/master/WebProject/README.md)
 
