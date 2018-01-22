@@ -5,9 +5,7 @@
   - Secutity Multi-Bootloader Manager 
   
 2. 개인 프로젝트 
-  - Spring + jsp + 서블릿 (개시판 만들기 진행중)
-  - Spring + jsp + 서블릿 (로그인 / 회원가입 / 회원인증 서비스 진행중) 
-  - Spring + jsp + 서블릿 (가상화폐 거래소) 진행중 
+  -  [Spring Project](https://github.com/KangHoyong/My-Portfolio/blob/master/WebProject/README.md)
 
 
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
