@@ -170,7 +170,7 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 
 
 ### 소개 PPT 
-- [소개 PPT]()
+- [소개 PPT](https://github.com/KangHoyong/My-Portfolio/blob/master/제10회%20공개SW개발자%20대회%20/공개SW개발자%20대회발표자료.pptx?raw=true)
 
 #### 대회 참여자 리스트 
 
