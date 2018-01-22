@@ -3,7 +3,7 @@
 # CONTENT
 1. 주요 프로젝트 
   - 1) NHNCopeCamp : Secutity Multi-Bootloader Manager 
-  - 2) Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]
+  - 2)[Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#2-kit-engineering-fair-2015-참여-수상-장려상-학교-프로젝트-과목--시스템프로젝트)
   - 3) Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]
 
 
