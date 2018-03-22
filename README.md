@@ -50,7 +50,7 @@ Grub분석 & iPXE 소스분석, 중계서버 Android & Grub 공통 프로토콜 
 5. [Android related matters](https://github.com/kbu1564/SecurityBootloader/issues/17)
 
 #### 본인 개발 내역 
-- [Andorid](https://github.com/kbu1564/SecurityBootloader/tree/develop/android/SecurityBootloader/app/src/main/java/com/example/kimhajin/securitybootloader) Android Background Service 제작 및 UI 구현 작업 
+- [Andorid](https://github.com/kbu1564/SecurityBootloader/tree/develop/android/SecurityBootloader/app/src/main/java/com/example/kimhajin/securitybootloader) Android Background Service, 소캣통신, UI 구현 작업 
 
 - [Grub분석](https://github.com/kbu1564/SecurityBootloader/issues/3)
 
