@@ -52,6 +52,11 @@ Grub분석 & iPXE 소스분석, 중계서버 Android & Grub 공통 프로토콜 
 #### 본인 개발 내역 
 - [Andorid](https://github.com/kbu1564/SecurityBootloader/tree/develop/android/SecurityBootloader/app/src/main/java/com/example/kimhajin/securitybootloader) Android Background Service, 소캣통신, UI 구현 작업 
 
+- [안드로이드 로그인] (https://github.com/KangHoyong/My-Portfolio/tree/master/Android%20Login%20Exercise/MyApplication/app/src/main/java/com/example/ganghoyong/myapplication)
+
+- [안드로이드 GCM 서비스]
+(https://github.com/KangHoyong/My-Portfolio/tree/master/Android%20GCM%20Exercise)
+
 - [Grub분석](https://github.com/kbu1564/SecurityBootloader/issues/3)
 
 - [iPXE분석](https://github.com/kbu1564/SecurityBootloader/issues/7) 
