@@ -5,12 +5,7 @@
   - 1) [NHNCopeCamp : Secutity Multi-Bootloader Manager](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#1-nhncopecamp) 
   -  2) [Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#2-kit-engineering-fair-2015-참여-수상-장려상-학교-프로젝트-과목--시스템프로젝트)
   - 3) [2016년 제10회 개발자 대회 참여 (수상 : 동상)](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#3-2016년-제10회-개발자-대회-참여-수상--동상)
-
-
-2. 개인 프로젝트 
-  - 1) [Spring Project](https://github.com/KangHoyong/My-Portfolio/blob/master/WebProject/README.md)
-
-
+  
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
 #### Project Name : Secutity Multi-Bootloader Manager 
@@ -52,10 +47,9 @@ Grub분석 & iPXE 소스분석, 중계서버 Android & Grub 공통 프로토콜 
 #### 본인 개발 내역 
 - [Andorid](https://github.com/kbu1564/SecurityBootloader/tree/develop/android/SecurityBootloader/app/src/main/java/com/example/kimhajin/securitybootloader) Android Background Service, 소캣통신, UI 구현 작업 
 
-- [안드로이드 로그인] (https://github.com/KangHoyong/My-Portfolio/tree/master/Android%20Login%20Exercise/MyApplication/app/src/main/java/com/example/ganghoyong/myapplication)
+- [안드로이드 로그인](https://github.com/KangHoyong/My-Portfolio/tree/master/Android%20Login%20Exercise/MyApplication/app/src/main/java/com/example/ganghoyong/myapplication)
 
-- [안드로이드 GCM 서비스]
-(https://github.com/KangHoyong/My-Portfolio/tree/master/Android%20GCM%20Exercise)
+- [안드로이드 GCM 서비스](https://github.com/KangHoyong/My-Portfolio/tree/master/Android%20GCM%20Exercise)
 
 - [Grub분석](https://github.com/kbu1564/SecurityBootloader/issues/3)
 
@@ -197,6 +191,4 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 <img width="991" alt="2017-07-10 1 39 06" src="https://user-images.githubusercontent.com/9815703/28003055-50707a06-6575-11e7-936d-c80f7ea6ebe4.png">
 
 
-## 4. 개인 프로젝트 (Spring, Back-end 개발 프로젝트)
-  -  [Spring Project](https://github.com/KangHoyong/My-Portfolio/blob/master/WebProject/README.md)
 
