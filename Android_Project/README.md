@@ -2,6 +2,8 @@
 
 ## [1. GSON 라이브러리 , OKHTTP 라이브러리 , recycle view , 커스텀 로딩 다이얼로그를 이용한 영화 박스오피스 랭킹 10위 출력하는 앱](https://github.com/KangHoyong/My-Portfolio/tree/master/Android_Project/REST%20API%20이용한%20박스오피스%20랭킹%20간단한%20앱%20구현/app/src/main/java/com/example/jess/myapplication) 
 
+- 사용 라이브러리 : OKHTTP(HTTP를 이용한 네트워크통신), GSON(JSON 데이터 파싱을 위한 라이브러리)
+
 - 흐름도 -> recycle view 
 
 ![2018-04-12 5 08 18](https://user-images.githubusercontent.com/9815703/38664450-9b9fb2ac-3e74-11e8-880c-c46c1d0288ba.png)
