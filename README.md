@@ -8,7 +8,7 @@
   
   - 4) [안드로이드 개발 프로젝트](https://github.com/KangHoyong/My-Portfolio/tree/master/Android_Project)
     
-  - 5) [Spring-webservice 프로젝트](https://github.com/KangHoyong/Spring-webservice)
+  - 5) [Spring-JPA 프로젝트](https://github.com/KangHoyong/Spring-JPA)
   
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
