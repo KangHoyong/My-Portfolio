@@ -10,6 +10,8 @@
     
   - 5) [Spring-JPA 프로젝트](https://github.com/KangHoyong/Spring-JPA)
   
+  - 6) 대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) [참고](http://www.hustar.org/preview/01.htm)
+  
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
 #### Project Name : Secutity Multi-Bootloader Manager 
