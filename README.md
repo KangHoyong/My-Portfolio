@@ -2,15 +2,15 @@
 
 # CONTENT
 1. 주요 프로젝트 
-  - 1) [NHNCopeCamp : Secutity Multi-Bootloader Manager](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#1-nhncopecamp) 
-  - 2) [Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트]](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#2-kit-engineering-fair-2015-참여-수상-장려상-학교-프로젝트-과목--시스템프로젝트)
+  - 1) [NHNCopeCamp : Secutity Multi-Bootloader Manager 2015 06.22 ~ 2015 08.25](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#1-nhncopecamp) 
+  - 2) [Kit Engineering Fair 2015 참여 (수상 장려상) [학교 프로젝트 과목 : 시스템프로젝트] 2015 9.1 ~ 2015 11.27](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#2-kit-engineering-fair-2015-참여-수상-장려상-학교-프로젝트-과목--시스템프로젝트)
   - 3) [2016년 제10회 개발자 대회 참여 (수상 : 동상)](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#3-2016년-제10회-개발자-대회-참여-수상--동상)
   
   - 4) [안드로이드 개발 프로젝트](https://github.com/KangHoyong/My-Portfolio/tree/master/Android_Project)
     
   - 5) [Spring-JPA 프로젝트](https://github.com/KangHoyong/Spring-JPA)
   
-  - 6) [대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇)](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#4-대경혁신인재양성-프로젝트-hust-1st-참여-분야--로봇-20191001--현재) [참고](http://www.hustar.org/preview/01.htm)
+  - 6) [대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019 10.1 ~ ](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#4-대경혁신인재양성-프로젝트-hust-1st-참여-분야--로봇-20191001--현재) [참고](http://www.hustar.org/preview/01.htm)
   
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
@@ -105,7 +105,7 @@ An interim announcement >> [PDF Link : TNTeams_ Security Booting Manager >> #1�
 
 #### 개발기간 및 일정 내용 
 
-개발 일정 : 2015 9.1 ~ 2015-11-27
+개발 일정 : 2015 9.1 ~ 2015 11.27
 
 일정 | 내용 
 :---: | ---
@@ -176,7 +176,7 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 
 
 ### 소개 PPT 
-- [소개 PPT](https://github.com/KangHoyong/My-Portfolio/blob/master/제10회%20공개SW개발자%20대회%20/공개SW개발자%20대회발표자료.pptx?raw=true)
+- [소개 PPT]()
 
 #### 대회 참여자 리스트 
 
@@ -199,5 +199,8 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 ## 4. 대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019.10.01 ~ 현재 
 ![캡처](https://user-images.githubusercontent.com/9815703/68083654-830c7480-fe6e-11e9-9d37-195d597d17db.PNG)
 
+### 교육과정 
+![교육 커리큘럼](https://user-images.githubusercontent.com/9815703/68083810-bd771100-fe70-11e9-923c-40743da29018.PNG)
 
+### Hustar 로봇혁신아카데미 1st 스터디 및 학습 내용 정리(https://github.com/HUST-Robot/Algorithm_miscellaneous-work)
 
