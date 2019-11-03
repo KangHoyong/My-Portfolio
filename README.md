@@ -196,5 +196,8 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 #### 최종 결과 
 <img width="991" alt="2017-07-10 1 39 06" src="https://user-images.githubusercontent.com/9815703/28003055-50707a06-6575-11e7-936d-c80f7ea6ebe4.png">
 
+## 4. 대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019.10.01 ~ 현재 진행중
+![캡처](https://user-images.githubusercontent.com/9815703/68083654-830c7480-fe6e-11e9-9d37-195d597d17db.PNG)
+
 
 
