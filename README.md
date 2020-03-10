@@ -205,5 +205,5 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 ![교육 커리큘럼](https://user-images.githubusercontent.com/9815703/68083810-bd771100-fe70-11e9-923c-40743da29018.PNG)
 
 ### [Hustar 로봇혁신아카데미 1st 스터디 및 학습 내용 정리](https://github.com/HUST-Robot/Algorithm_miscellaneous-work)
-### [Hustar 캡스톤 디자인](https://github.com/HUST-Robot/Capstone-design)
+### [Hustar 캡스톤 디자인 : 스마트 ](https://github.com/HUST-Robot/Capstone-design)
 ### [Hustar 심화프로젝트](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator)
