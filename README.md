@@ -176,7 +176,7 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 
 
 ### 소개 PPT 
-- [소개 PPT]()
+- [소개 PPT](https://github.com/KangHoyong/My-Portfolio/blob/master/발표자료%20및%20문서/7.%20학생_TNTeam(강호용).pdf)
 
 #### 대회 참여자 리스트 
 
