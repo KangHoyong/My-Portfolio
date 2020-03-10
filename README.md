@@ -10,7 +10,9 @@
     
   - 5) [Spring-JPA 프로젝트](https://github.com/KangHoyong/Spring-JPA)
   
-  - 6) [대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019 10.1 ~ ](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#4-대경혁신인재양성-프로젝트-hust-1st-참여-분야--로봇-20191001--20200310) [참고](http://www.hustar.org/preview/01.htm)
+  - 6) [대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019 10.1 ~ 2020 02.28 ](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#4-대경혁신인재양성-프로젝트-hust-1st-참여-분야--로봇-20191001--20200310) [참고](http://www.hustar.org/preview/01.htm)
+  
+  - 7) 영일엔지니어링(주) 3개월 인턴 2020 3.16 ~  / 소프트웨어 개발 부서(자동화설비 : LabView 개발) 
   
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
