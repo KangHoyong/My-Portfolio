@@ -12,7 +12,9 @@
   
   - 6) [대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019 10.1 ~ 2020 02.28 ](https://github.com/KangHoyong/My-Portfolio/blob/master/README.md#4-대경혁신인재양성-프로젝트-hust-1st-참여-분야--로봇-20191001--20200310) [참고](http://www.hustar.org/preview/01.htm)
   
-  - 7) 영일엔지니어링(주) 3개월 인턴 2020 3.16 ~  / 소프트웨어 개발 부서(자동화설비 : LabView 개발) 
+  - 7) 영일엔지니어링(주) 인턴 2020 3.16 ~ 2020.3.30/ 소프트웨어 개발 부서(자동화설비 : LabView 개발) 및 C#
+  
+  - 8) 주식회사 인피닉스 개발팀원 재직중 2020 4.1 ~ 현재 /  AI 개발팀 (python, pytorch)
   
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
@@ -207,3 +209,9 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 ### [Hustar 로봇혁신아카데미 1st 스터디 및 학습 내용 정리](https://github.com/HUST-Robot/Algorithm_miscellaneous-work)
 ### [Hustar 캡스톤 디자인 : 스마트 미러 ](https://github.com/HUST-Robot/Capstone-design)
 ### [Hustar 심화프로젝트 : 카메라 영상을 이용한 로봇시뮬레이션 소프트웨어를 이용한 제어](https://github.com/KangHoyong/Development-of-a-Robot-Control-Software-using-camera-and-Robot-Simulator)
+
+## 5. 대경혁신인재양성 프로젝트 Hust 2st 강사 (분야 : AI / AI Base 교육) 
+일정 : 2020.7.20 ~ 2020.7.21 
+분야 : pytroch 소개 및 Tensor 실습 , 선형 회귀 분석 , 이진 분류 , 선택 분류, 퍼셉트론 
+실습 코드 : [Huster 2st 교육 실습코드](https://github.com/KangHoyong/dmi_edu)
+
