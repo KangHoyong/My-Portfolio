@@ -14,7 +14,8 @@
   
   - 7) 영일엔지니어링(주) 인턴 2020 3.16 ~ 2020.3.30/ 소프트웨어 개발 부서(자동화설비 : LabView 개발) 및 C#
   
-  - 8) 주식회사 인피닉스 개발팀원 재직중 2020 4.1 ~ 현재 /  AI 개발팀 (python, pytorch)
+  - 8) 주식회사 인피닉스 개발팀원 재직중 2020 4.1 ~ 현재 /  AI 개발팀 (python, pytorch) 
+      - 대경 휴스타 양성 사업 교육 지원 (AI) [실습코드 및 관련내](https://github.com/KangHoyong/My-Portfolio#5-%EB%8C%80%EA%B2%BD%ED%98%81%EC%8B%A0%EC%9D%B8%EC%9E%AC%EC%96%91%EC%84%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-hust-2st-%EA%B0%95%EC%82%AC-%EB%B6%84%EC%95%BC--ai--ai-base-%EA%B5%90%EC%9C%A1)
   
 ## 1. [***NHNCopeCamp***](https://github.com/kbu1564/SecurityBootloader)
 
@@ -200,7 +201,7 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 #### 최종 결과 
 <img width="991" alt="2017-07-10 1 39 06" src="https://user-images.githubusercontent.com/9815703/28003055-50707a06-6575-11e7-936d-c80f7ea6ebe4.png">
 
-## 4. 대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019.10.01 ~ 현재 
+## 4. 대경혁신인재양성 프로젝트 Hust 1st 참여 (분야 : 로봇) 2019.10.01 ~ 2020.06.15
 ![캡처](https://user-images.githubusercontent.com/9815703/68083654-830c7480-fe6e-11e9-9d37-195d597d17db.PNG)
 
 ### 교육과정 
@@ -212,6 +213,8 @@ Grub분석 & iPXE 소스분석, Android Background Service 제작 및 UI 설계 
 
 ## 5. 대경혁신인재양성 프로젝트 Hust 2st 강사 (분야 : AI / AI Base 교육) 
 일정 : 2020.7.20 ~ 2020.7.21 
-분야 : pytroch 소개 및 Tensor 실습 , 선형 회귀 분석 , 이진 분류 , 선택 분류, 퍼셉트론 
+
+교육 내용 : pytroch 소개 및 Tensor 실습 , 선형 회귀 분석 , 이진 분류 , 선택 분류, 퍼셉트론 이론 및 실습 진행
+
 실습 코드 : [Huster 2st 교육 실습코드](https://github.com/KangHoyong/dmi_edu)
 
